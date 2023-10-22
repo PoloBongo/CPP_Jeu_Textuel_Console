@@ -1,0 +1,14 @@
+1, attackEpee, 20, l'Eppee
+2, attackPistolet, 60, le Pistolet
+3, attackPhysique, 10, son Coup de Poingt
+4, soinsAlcool, 40, de l'acool
+5, soinsViande, 20, de la viande
+6, attackSpecialBoss, 100, le Haki
+7, attackBoullet, 40, le Boullet
+8, attackChaine, 60, une Chaine
+9, attackPhysique, 60, Coup de tete
+10, attackSpecial, 150, le Haki des Rois
+11, attackSpecialJoueur, 100, le Fluide offensif
+12, PVJoueur, 400, PV du Joueur
+13, PVSbire, 200, PV du Sbire
+14, PVBoss, 600, PV du Boss Garp
